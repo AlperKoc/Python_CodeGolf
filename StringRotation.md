@@ -28,5 +28,7 @@ No matter how many times you rotate s2, it'll never be equal to s1
 - Output
   * true
 
+# Answer
+
 `print(["false","true"][input().lower()in input().lower()*2])`
 
